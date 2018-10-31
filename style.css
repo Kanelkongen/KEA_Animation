@@ -124,18 +124,54 @@ body {
     position: absolute;
     background-size: 100%;
     background-image: url(imgs/diss.png);
-    width: 18.125vw;
-    height: auto;
+    width: 36.25vw;
+    height: 8.056vw;
+    left: 30%;
+    top: 5%;
+
+
 
 
 
 
 }
 
-#one {}
+#one {
+    position: absolute;
+    background-size: 100%;
+    background-image: url(imgs/answer.png);
+    width: 36.25vw;
+    height: 6.042vw;
+    left: 30%;
+    top: 25%;
+}
 
-#two {}
+#two {
+    position: absolute;
+    background-size: 100%;
+    background-image: url(imgs/answer.png);
+    width: 36.25vw;
+    height: 6.042vw;
+    left: 30%;
+    top: 40%;
+}
 
-#three {}
+#three {
+    position: absolute;
+    background-size: 100%;
+    background-image: url(imgs/answer.png);
+    width: 36.25vw;
+    height: 6.042vw;
+    left: 30%;
+    top: 55%;
+}
 
-#four {}
+#four {
+    position: absolute;
+    background-size: 100%;
+    background-image: url(imgs/answer.png);
+    width: 36.25vw;
+    height: 6.042vw;
+    left: 30%;
+    top: 70%;
+}
