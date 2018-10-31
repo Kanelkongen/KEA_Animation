@@ -1,0 +1,141 @@
+body {
+    margin: 0;
+
+}
+
+#screen {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 56.25vw;
+
+}
+
+#menu_background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url(imgs/background.png);
+    background-size: 100%;
+
+
+}
+
+#start {
+    position: absolute;
+    background-size: 100%;
+    background-image: url(imgs/start.png);
+    top: 25%;
+    left: 25%;
+    height: 28.125vw;
+    width: 50vw;
+    z-index: 1;
+
+    display: none;
+}
+
+#settings {
+    position: absolute;
+    background-size: 100%;
+    background-image: url(imgs/menu.png);
+    top: 25%;
+    left: 25%;
+    height: 28.125vw;
+    width: 50vw;
+    z-index: 1;
+
+    display: none;
+
+
+}
+
+#gameover {
+    position: absolute;
+    background-size: 100%;
+    background-image: url(imgs/gameover.png);
+    top: 0;
+    left: 0;
+    height: 56.25vw;
+    width: 100vw;
+    z-index: 1;
+
+    display: none;
+
+}
+
+#levelcomplete {
+    position: absolute;
+    background-size: 100%;
+    background-image: url(imgs/youwin.png);
+    top: 0;
+    left: 0;
+    height: 56.25vw;
+    width: 100vw;
+    z-index: 1;
+
+    display: none;
+
+}
+
+#good {
+    position: absolute;
+    background-size: 100%;
+    background-image: url(imgs/good.png);
+    top: 25%;
+    left: 5%;
+    height: 36.25vw;
+    width: 18.125vw;
+    display: none;
+
+
+}
+
+#wound {
+    position: absolute;
+    background-size: 100%;
+    background-image: url(imgs/wound.png);
+    top: 25%;
+    left: 5%;
+
+    height: 36.25vw;
+    width: 18.125vw;
+    display: none;
+}
+
+#bad {
+    position: absolute;
+    background-size: 100%;
+    background-image: url(imgs/bad.png);
+    top: 25%;
+    right: 5%;
+
+
+    height: 36.25vw;
+    width: 18.125vw;
+    display: none;
+
+
+}
+
+
+
+#diss {
+    position: absolute;
+    background-size: 100%;
+    background-image: url(imgs/diss.png);
+    width: 18.125vw;
+    height: auto;
+
+
+
+
+}
+
+#one {}
+
+#two {}
+
+#three {}
+
+#four {}

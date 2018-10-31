@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+}
+
+#screen {
+    position: relative;
+    width: 100vw;
+    height: 56.25vw;
+}
+
+#baggrund {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url(imgs/baggrund-01.svg);
+    background-size: 100%;
+}
+
+#tog {
+    position: absolute;
+    background-image: url(imgs/tog.svg);
+    width: 71.35vw;
+    height: 10.31vw;
+    background-size: 100%;
+
+}
+
+#bil {
+    position: absolute;
+    background-image: url(imgs/bil.svg);
+    background-size: 100%;
+    width: 44.18vw;
+    height: 38.79vw;
+
+
+}
+
+#bom {
+    position: absolute;
+    background-image: url(imgs/bom.svg);
+    background-size: 100%;
+    width:
+}
+
+#forgrund {
+    position: absolute;
+    background-image: url(imgs/forgrund-01.svg);
+    background-size: 100%;
+
+}
